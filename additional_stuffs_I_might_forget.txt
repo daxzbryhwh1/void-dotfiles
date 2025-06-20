@@ -1,0 +1,16 @@
+sddm-astrounaut-theme -> https://github.com/Keyitdev/sddm-astronaut-theme/tree/master
+sekiro_grub_theme -> https://github.com/semimqmo/sekiro_grub_theme
+wuthering-grub2-themes
+streamlink-twith-gui / youtube
+zen-browser
+pywal16
+xdeb
+
+theme gkt:
+	icons: piparus
+	cursor: DeppinDark
+	font: ZedMono
+	theme: been lookin for a good one still
+
+
+

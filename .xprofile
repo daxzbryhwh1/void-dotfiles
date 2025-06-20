@@ -1,0 +1,10 @@
+#source .config/venv/bin/activate
+xcompmgr &
+wal -R
+pipewire &
+#pipe-pulse &
+wireblumper &
+#feh --bg-fill $HOME/Imagens/wallpapers/anime.png
+#nitrogen --restore &
+#~/my-void-rice/dwm-scripts/dwm-status.sh &
+setxkbmap br &

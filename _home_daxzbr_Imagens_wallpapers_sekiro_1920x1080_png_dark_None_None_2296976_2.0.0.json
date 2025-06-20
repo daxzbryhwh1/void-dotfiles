@@ -1,0 +1,28 @@
+{
+    "checksum": "6b558cd5e31d06f2ee127dc74293511f",
+    "wallpaper": "/home/daxzbr/Imagens/wallpapers/sekiro_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1d0c13",
+        "foreground": "#c6c2c4",
+        "cursor": "#c6c2c4"
+    },
+    "colors": {
+        "color0": "#1d0c13",
+        "color1": "#A3323F",
+        "color2": "#8B5156",
+        "color3": "#A66267",
+        "color4": "#D95D63",
+        "color5": "#DD837C",
+        "color6": "#BA7B85",
+        "color7": "#c6c2c4",
+        "color8": "#705c63",
+        "color9": "#A3323F",
+        "color10": "#8B5156",
+        "color11": "#A66267",
+        "color12": "#D95D63",
+        "color13": "#DD837C",
+        "color14": "#BA7B85",
+        "color15": "#c6c2c4"
+    }
+}
