@@ -5,6 +5,7 @@ streamlink-twith-gui / youtube
 zen-browser
 pywal16
 xdeb
+wal-chose
 
 theme gkt:
 	icons: piparus
